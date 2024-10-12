@@ -1,6 +1,6 @@
 [![Header](https://github.com/alekseymazur/alekseymazur/blob/main/assets/alekseymazur.jpg)]()
 
-About me
+## I'm a beginner Software Engenner
 
 Last vi
 
